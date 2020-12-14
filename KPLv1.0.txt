@@ -1,0 +1,21 @@
+KAKASHI PUBLIC LICENSE
+
+Version 1.0, December 2020
+
+Copyright (C) 2020 Thirteen Saints
+
+Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name of the license is changed.
+
+1. APPLICABILITY
+
+   This license is applicable ONLY to the file containing a hyperlink that leads to this page ("The File"). This license is not applicable to any material The File references to, unless the material is independently linked to the Kakashi Public License.
+
+2. WAIVER 
+
+   To the greatest extent permitted by law, the licensor hereby unconditionally waives all of his copyright and related rights.
+
+3. TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+   None.
+
+   
