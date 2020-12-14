@@ -10,10 +10,11 @@ long as the name of the license is changed.
 
 1. APPLICABILITY
 
-   This license is applicable ONLY to the file containing a
-hyperlink that leads to this page ("The File"). This license is
-not applicable to any material The File references to, unless the
-material is independently linked to the Kakashi Public License.
+   Every file on which the Kakashi Public License version 1.0
+("KPLv1.0") applies must state so independently through a declaration
+such as "KPLv1.0 affirmed for this file." Simply placing this license
+document in a folder or repository does not associate it with the 
+files contained in that folder or directory.
 
 2. WAIVER
 
@@ -22,6 +23,6 @@ unconditionally waives all of his copyright and related rights.
 
 3. TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-   None.
+   You just do what the fuck you want to.
 
    
