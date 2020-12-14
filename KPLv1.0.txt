@@ -14,7 +14,7 @@ long as the name of the license is changed.
 ("KPLv1.0") applies must state so independently through a declaration
 such as "KPLv1.0 affirmed for this file." Simply placing this license
 document in a folder or repository does not associate it with the 
-files contained in that folder or directory.
+files contained in that folder or repository.
 
 2. WAIVER
 
