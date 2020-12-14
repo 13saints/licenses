@@ -1,6 +1,6 @@
 For Kakashi Public License v1.0:
 
-[![KPL](https://github.com/13saints/licenses/blob/main/logos/KPLv1.0-affirmed-medium.png)](https://raw.githubusercontent.com/13saints/licenses/main/KPLv1.0.txt)
+[![Kakashi Public License Affirmed](https://github.com/13saints/licenses/blob/main/logos/KPLv1.0-affirmed-medium.png)](https://raw.githubusercontent.com/13saints/licenses/main/KPLv1.0.txt)
 
 -----------------------------------------------------------
 
