@@ -1,0 +1,31 @@
+KAKASHI PUBLIC LICENSE FOR A FOLDER 
+
+Version 1.0, December 2020
+
+Copyright (C) 2020 Thirteen Saints
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name of the license is changed.
+
+The Kakashi Public License For A Folder ("KPL-FAF") is not to be 
+confused with the Kakashi Public Licence.
+
+1. APPLICABILITY
+
+   KPL-FAF version 1.0 applies to all the contents of the immediate 
+folder that contains this license document ("folder 0"). This 
+includes the folders contained within folder 0, that is, the 
+subfolders of folder 0. This does not include other contents of the 
+folders that contain folder 0, that is, the superfolders of folder 0.
+
+2. WAIVER
+
+   To the greatest extent permitted by law, the licensor hereby
+unconditionally waives all of his copyright and related rights.
+
+3. TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+   You just do what the fuck you want to.
+
+   
