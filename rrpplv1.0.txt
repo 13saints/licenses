@@ -1,0 +1,10 @@
+rosy rosy princess posy (rrpp) license version 1.0.
+copyright (c) 2021 yumemirohito.
+1. this license document may be copied and distributed verbatim.
+2. modified version(s) of this license document may be distributed
+   IFF the name of the license is changed.
+3. this license applies ONLY to the paricular section of the document that
+   affirms rrppl v1.0.
+4. the author(s) hereby permit(s) all homo sapiens to do ANYTHING with the
+   contents of the section affirming rrppl v1.0.
+have a good day!
